@@ -11,14 +11,14 @@
           <li class="p-name">
             {%- if site.author -%}
               {{ site.author | escape }}
-            {%- else -%}
-              {{ site.title | escape }}
             {%- endif -%}
             </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
+            <li><a href="https://conserveutahvalley.org/">Conserve Utah Valley</a></li>
+            <li><a href="https://greatsaltlakeaudubon.org/">Great Salt Lake Audubon</a></li>
+            <li><a href="https://www.sierraclub.org/utah">Sierra Club Utah Chapter</a></li>
+            <li><a href="http://uvef.org/">Utah Valley Earth Forum</a></li>
         </ul>
+        <p>{{- site.description | escape -}}</p>
       </div>
 
       <div class="footer-col footer-col-2">
@@ -26,7 +26,7 @@
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
+        <p>Have questions or suggestions?<br>Email <a href="mailto:conserveutahlake@gmail.com">conserveutahlake@gmail.com</a></p>
       </div>
     </div>
 
