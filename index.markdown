@@ -1,5 +1,6 @@
 ---
 layout: home
+image: /assets/social.jpg
 ---
 
 *Find the latest news and research about Utah Lake and then share with others.*
