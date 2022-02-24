@@ -3,7 +3,6 @@ layout: post
 title: "We're just getting started"
 author:
 - Tod Robbins
-permalink: /updates/2022-02-23-were-just-getting-started/
 image: https://www.conserveutahlake.org/assets/social.jpg
 ---
 
