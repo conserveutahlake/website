@@ -99,8 +99,8 @@ li > ul {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: $base-font-weight;
-  font-family: 'Gaegu', serif;
+  font-weight: 700;
+  font-family: 'Bitter', serif;
 }
 
 
@@ -135,7 +135,7 @@ a {
  * Blockquotes
  */
 blockquote {
-  font-family: 'Gaegu', serif;
+  font-family: 'Bitter', serif;
   color: $grey-color;
   background: rgba(255,255,255,.6);
   border-left: 2px solid $grey-color-dark;
