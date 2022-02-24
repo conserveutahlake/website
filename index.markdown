@@ -32,6 +32,6 @@ image: https://www.conserveutahlake.org/assets/social.jpg
   - 🐟 [Getting to know the Utah Lake Ecosystem](https://pws.byu.edu/utah-lake/about-utah-lake)
   - ▶️ [Recordings](https://pws.byu.edu/utah-lake/recorded-sessions)
   - 🖼 [Utah Lake artwork](https://pws.byu.edu/utah-lake/artwork-and-multimedia-competition)
-- 🔎 [Utah Lake Field Station](https://johnhutchingsmuseum.org/utah-lake-field-station/)
+- ⛺️ [Utah Lake Field Station](https://johnhutchingsmuseum.org/utah-lake-field-station/)
 - 🔎 [Utah Lake Water Quality Study](https://deq.utah.gov/water-quality/utah-lake-water-quality-study)
 - 🚫 [Utah Lake Phragmites Control](https://storymaps.arcgis.com/stories/4ba238d169f043f89e1eec1c37d066cd)
