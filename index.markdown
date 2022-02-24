@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 image: https://www.conserveutahlake.org/assets/social.jpg
 ---
 
@@ -17,11 +17,13 @@ image: https://www.conserveutahlake.org/assets/social.jpg
   - 📜 [H.B. 232 Utah Lake Authority (2022)](https://le.utah.gov/~2022/bills/static/HB0232.html)
   - 📜 [H.B. 240 Utah Lake Amendments (2022)](https://le.utah.gov/~2022/bills/static/HB0240.html)
   - 📜 [H.B. 272 Utah Lake Amendments (2018)](https://le.utah.gov/~2018/bills/static/HB0272.html)
-
+- 🏛 [Utah Lake Commission](https://utahlake.org/volunteer/)
 
 ## 💪 Community
 
+- 🎉 [Utah Lake Festival](https://utahlake.org/utah-lake-festival/)
 - 📸 [Utah Lake Photography Club](https://www.facebook.com/groups/1888588758087340)
+- 🔎 [Utah Lake Research Collaborative](https://utahlakecollab.wixsite.com/utahlakecollab)
 - ♻️ [Walkara Way Conservation Project](https://www.facebook.com/groups/2454249811362514/)
 
 ## 🔬 Current research
