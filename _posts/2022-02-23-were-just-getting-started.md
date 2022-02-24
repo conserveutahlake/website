@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "We're just getting started"
-categories: announcement
 author:
 - Tod Robbins
 ---
