@@ -1,23 +1,24 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
 
-> Utah Lake needs you.
+*Find the latest news and research about Utah Lake and then share with others.*
 
-Find the latest news and research about Utah Lake and then share with others.
+<img src="/assets/utah-lake.jpg" alt="A photo of the Wasatch Range's mirror reflection on Utah Lake with a flock of birds in the clear sky above">
+<sup>Photo by <a href="https://unsplash.com/@andrewjdutton">Andy Dutton</a></sup>
 
-## Resources
+# Resources
 
-### ✊ Participate in the process
+## ✊ Participate in the process
+
 - ✍️ [Don't Pave Utah Lake Petition](https://dontpaveutahlake.org/petition/)
-- 📜 [H.B. 232 Utah Lake Authority (2022)](https://le.utah.gov/~2022/bills/static/HB0232.html)
-- 📜 [H.B. 240 Utah Lake Amendments (2022)](https://le.utah.gov/~2022/bills/static/HB0240.html)
-- 📜 [H.B. 272 Utah Lake Amendments (2018)](https://le.utah.gov/~2018/bills/static/HB0272.html)
+- 📱 [Contact your representatives](https://le.utah.gov/GIS/findDistrict.jsp)
+  - 📜 [H.B. 232 Utah Lake Authority (2022)](https://le.utah.gov/~2022/bills/static/HB0232.html)
+  - 📜 [H.B. 240 Utah Lake Amendments (2022)](https://le.utah.gov/~2022/bills/static/HB0240.html)
+  - 📜 [H.B. 272 Utah Lake Amendments (2018)](https://le.utah.gov/~2018/bills/static/HB0272.html)
 
-### 🔬 Current research
+## 🔬 Current research
+
 - 🗣 [Utah Lake Symposium](https://pws.byu.edu/utah-lake)
   - 🐟 [Getting to know the Utah Lake Ecosystem](https://pws.byu.edu/utah-lake/about-utah-lake)
   - ▶️ [Recordings](https://pws.byu.edu/utah-lake/recorded-sessions)

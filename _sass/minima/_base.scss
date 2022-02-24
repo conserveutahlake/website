@@ -78,14 +78,17 @@ figcaption {
  * Lists
  */
 ul, ol {
+  margin-bottom: 2rem;
   margin-left: $spacing-unit;
 }
 
 li {
-  > ul,
-  > ol {
-    margin-bottom: 0;
-  }
+  margin-bottom: .6rem;
+  list-style: none;
+}
+
+li > ul {
+  margin-top: .6rem;
 }
 
 
@@ -95,7 +98,7 @@ li {
  */
 h1, h2, h3, h4, h5, h6 {
   font-weight: $base-font-weight;
-  font-family: 'EB Garamond', serif;
+  font-family: 'Gaegu', serif;
 }
 
 
@@ -108,7 +111,7 @@ a {
   text-decoration: none;
 
   &:visited {
-    color: darken($brand-color, 15%);
+    color: $brand-color;
   }
 
   &:hover {
@@ -130,13 +133,12 @@ a {
  * Blockquotes
  */
 blockquote {
+  font-family: 'Gaegu', serif;
   color: $grey-color;
-  background: white;
-  border-left: 4px solid $grey-color-light;
-  padding-left: $spacing-unit / 2;
-  padding-bottom: $spacing-unit;
-  padding-top: $spacing-unit;
-  @include relative-font-size(1.125);
+  background: rgba(255,255,255,.6);
+  border-left: 2px solid $grey-color-dark;
+  padding: $spacing-unit $spacing-unit/2 $spacing-unit $spacing-unit;
+  @include relative-font-size(1.25);
   letter-spacing: -1px;
   font-style: italic;
 
