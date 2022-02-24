@@ -6,7 +6,7 @@ author:
 - Tod Robbins
 ---
 
-The goal of **Conserve Utah Lake** is to provide the latest news and research about Utah Lake. We're excited to get underway and help the people help the Lake in meaningful ways.
+The goal of **Conserve Utah Lake** is to provide the latest news and research about [Utah Lake](https://en.m.wikipedia.org/wiki/Utah_lake). We're excited to get underway and help the people help the Lake in meaningful ways.
 
 Look for more updates very soon!
 
