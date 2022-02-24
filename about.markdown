@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-image: /assets/social.jpg
+image: https://www.conserveutahlake.org/assets/social.jpg
 permalink: /about/
 ---
 
