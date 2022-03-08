@@ -23,7 +23,7 @@ image: https://www.conserveutahlake.org/assets/social.jpg
 
 - 🎉 [Utah Lake Festival](https://utahlake.org/utah-lake-festival/)
 - 📸 [Utah Lake Photography Club](https://www.facebook.com/groups/1888588758087340)
-- 🔎 [Utah Lake Research Collaborative](https://utahlakecollab.wixsite.com/utahlakecollab)
+- 💧 [Utah Water Watch](https://extension.usu.edu/utahwaterwatch/)
 - ♻️ [Walkara Way Conservation Project](https://www.facebook.com/groups/2454249811362514/)
 
 ### 🔬 Current research & restoration work
@@ -38,5 +38,6 @@ image: https://www.conserveutahlake.org/assets/social.jpg
 - ♻️ [Provo River Delta Restoration Project](https://www.provoriverdelta.us/)
 - ⛺️ [Utah Lake Field Station](https://johnhutchingsmuseum.org/utah-lake-field-station/)
 - 🚫 [Utah Lake Phragmites Control](https://storymaps.arcgis.com/stories/4ba238d169f043f89e1eec1c37d066cd)
+- 🔎 [Utah Lake Research Collaborative](https://utahlakecollab.wixsite.com/utahlakecollab)
 - 🚲 [Utah Lake Shoreline Trail](https://utahlake.org/utah-lake-trail-plan/)
 - 🔎 [Utah Lake Water Quality Study](https://deq.utah.gov/water-quality/utah-lake-water-quality-study)
