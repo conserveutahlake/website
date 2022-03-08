@@ -258,18 +258,3 @@ table {
     border: 1px solid $grey-color-light;
   }
 }
-
-@media (prefers-color-scheme: dark) {
-  body {
-    color: #ccc;
-    background: #121212;
-  }
-
-  a {
-    color: #809fff;
-  }
-
-  a:hover, a:visited {
-    color: #809fff;
-  }
-}

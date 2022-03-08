@@ -265,4 +265,43 @@
   }
 }
 
-/* Additional styles */
+/* Dark mode */
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #ccc;
+    background: #121212;
+  }
+
+  .site-title {
+    color: #ccc !important;
+
+    &,
+    &:visited {
+      color: #ccc;
+    }
+  }
+
+  .site-header {
+    background: $brand-color-dark;
+  }
+
+  .site-nav {
+  
+    .page-link {
+      color: #ccc;
+      &,
+      &:visited {
+        color: #ccc;
+      }
+    }
+  }
+
+  a {
+    color: #809fff;
+  }
+
+  a:hover, a:visited {
+    color: #809fff;
+  }
+}
